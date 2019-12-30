@@ -8,3 +8,4 @@ clone the repository
 ##### ```./Tic-Tac-Toe```
 enjoy playing :)
 
+This repo also contain a tic-tac-toe game via python, its only multiplayer though
